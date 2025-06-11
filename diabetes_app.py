@@ -5,7 +5,7 @@ from joblib import load
 
 
 # Load model
-model = load("/Users/akashakash/Desktop/diabetes_model.joblib")
+model = load("diabetes_model.joblib")
 
 
 # App interface
