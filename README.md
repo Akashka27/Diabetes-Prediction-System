@@ -21,5 +21,4 @@ A machine learning-based system that predicts the likelihood of diabetes using p
 git clone https://github.com/Akashka27/Diabetes-Prediction-System.git
 cd Diabetes-Prediction-System
 
-#Dataset
-[Download Dataset](diabetes.csv)
+
