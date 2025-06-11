@@ -43,7 +43,8 @@ graph TD
 ```
 
 ## 🖼️ Screenshots
-![App Screenshot](images/screenshot.png)
+![App Screenshot](images/input_screen.jpg)
+![App Screenshot](images/result_screen.jpg)
 
 ## 🤝 Contributing
 Pull requests welcome! Please open an issue first.
