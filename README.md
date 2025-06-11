@@ -8,10 +8,10 @@
 [REPLACE THIS WITH YOUR 1-2 SENTENCE PROJECT DESCRIPTION]
 
 ## 🌟 Features
-- [EDIT ACCURACY] 78% accurate prediction model
+-  78% accurate prediction model
 - User-friendly web interface
 - Real-time probability visualization
-- [ADD 1-2 MORE KEY FEATURES]
+
 
 ## 🚀 Quick Start
 
@@ -25,60 +25,5 @@
 git clone https://github.com/Akashka27/Diabetes-Prediction-System.git
 cd Diabetes-Prediction-System
 
-# Install dependencies
-pip install -r requirements.txt
-Launch App
-bash
-streamlit run app.py
-➡️ Open http://localhost:8501 in your browser
 
-📊 Dataset
-Pima Indians Diabetes Dataset (768 patient records)
-
-[PASTE YOUR DATASET TABLE HERE OR USE:]
-
-Feature	Description	Range
-Glucose	Plasma glucose	70-200 mg/dL
-BMI	Body mass index	0-100
-...	...	...
-📥 Download Dataset
-
-🧠 Model Architecture
-Diagram
-Code
-
-
-
-
-Key Specifications:
-
-Algorithm: Random Forest Classifier
-
-Accuracy: [EDIT] 78.2%
-
-Key Features: Glucose, BMI, Age
-
-https://images/feature_importance.png
-
-🖥️ Screenshots
-Input Form	Results
-https://images/input_screen.png	https://images/result_screen.png
-🤝 Contributing
-Fork the repository
-
-Create your feature branch (git checkout -b feature/your-feature)
-
-Commit changes (git commit -m 'Add feature')
-
-Push to branch (git push origin feature/your-feature)
-
-Open a Pull Request
-
-📜 License
-MIT License - See LICENSE for details
-
-📬 Contact
-[YOUR NAME]
-
-GitHub: @Akashka27
 
