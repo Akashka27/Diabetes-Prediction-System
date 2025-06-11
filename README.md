@@ -20,5 +20,11 @@ A machine learning-based system that predicts the likelihood of diabetes using p
 ```bash
 git clone https://github.com/Akashka27/Diabetes-Prediction-System.git
 cd Diabetes-Prediction-System
+```mermaid
+graph TD
+    A[Input Features] --> B[Data Preprocessing]
+    B --> C[Random Forest Classifier]
+    C --> D[Probability Calculation]
+    D --> E[Result Visualization]
 
 
