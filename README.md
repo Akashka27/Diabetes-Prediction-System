@@ -1,3 +1,9 @@
+**To implement this:**
+
+1. Create these folders in your repository:
+   ```bash
+   mkdir -p data images
+
 # Diabetes Prediction System 🩺
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -22,8 +28,3 @@ git clone https://github.com/Akashka27/Diabetes-Prediction-System.git
 cd Diabetes-Prediction-System
 
 
-**To implement this:**
-
-1. Create these folders in your repository:
-   ```bash
-   mkdir -p data images
